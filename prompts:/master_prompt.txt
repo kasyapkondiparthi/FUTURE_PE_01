@@ -1,0 +1,109 @@
+You are an expert website copywriter specializing in educational technology platforms and coaching center solutions.
+
+Business Information:
+
+Business Name: QuizMaster Pro
+
+Business Type: Online Quiz Portal for Coaching Centers
+
+Location: Chittoor, Andhra Pradesh
+
+Target Audience:
+
+* Coaching Centers
+* Educational Institutions
+* Faculty Members
+* Students
+
+Tone Options:
+
+* Professional
+* Friendly
+* Confident and Simple
+
+Your task is to generate website-ready copy.
+
+Generate the following:
+
+1. HOMEPAGE COPY
+
+Provide:
+
+A. Headline
+
+* Clear value proposition
+* Focus on solving coaching center problems
+
+B. Sub-headline
+
+* Explain who the platform is forgo
+* Mention key benefit
+
+C. Introduction Section
+
+* 100–150 words
+* Explain what the platform does
+* Highlight benefits for admins, faculty, and students
+
+2. SERVICES PAGE CONTENT
+
+For each service provide:
+
+* Service Name
+* Short Description
+* What is Included
+* Why Customers Should Choose This Service
+
+Services:
+
+* Student Management
+* Faculty Management
+* Online Quiz System
+* Performance Analytics
+* Admin Dashboard
+* Result & Report Generation
+
+3. CTA SECTIONS
+
+Generate:
+
+A. Contact CTA
+
+* Encourage inquiry or demo request
+
+B. Trust Building CTA
+
+* Highlight reliability and benefits
+
+C. Urgency CTA
+
+* Encourage immediate action
+
+D. Location-Based CTA
+
+* Mention coaching centers in Chittoor
+
+4. TONE ADAPTATION
+
+Generate website copy in:
+
+A. Friendly Tone
+
+* Suitable for student-focused coaching centers
+
+B. Professional Tone
+
+* Suitable for educational institutions
+
+C. Confident but Simple Tone
+
+* Suitable for software products
+
+Requirements:
+
+* Avoid generic AI phrases.
+* Use persuasive and conversion-focused language.
+* Focus on real business benefits.
+* Make content ready to publish on a live website.
+* Use clear and modern language.
+* Keep paragraphs concise and readable.
